@@ -8,7 +8,8 @@
 using namespace std; 
 
 // class headers
-#include "MyString.h"
 
 #include <cstdlib>
 #include <iostream>
+
+#include "MyString.h"
