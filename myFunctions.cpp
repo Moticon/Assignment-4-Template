@@ -5,7 +5,7 @@
  * No inputs our return values
   */
 void clearScreen() {
-	system("cls");
+	system("cls");   
 }
 
 /*
